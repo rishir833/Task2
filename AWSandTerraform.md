@@ -43,3 +43,7 @@ Author : Rishi Ranjan
 - terraform apply
 6. After these commands our instance will be created and start running. <img width="1566" height="223" alt="Image" src="https://github.com/user-attachments/assets/57206ab9-f7af-4c43-abc2-a0a01dbc8198" />
 
+# Conclusion
+- In this task we learned about AWS Instances and how to setup it manually and as in Infrastrusture as Code with the help of Terraform.
+- We learned that doing with the help of Terraform makes it easier and faster while manually it takes time.
+
